@@ -3,21 +3,21 @@ description: > # this means to ignore newlines until "baseurl:"
   웹, 프로그래밍 관련 자유 블로그
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://jongwoo328.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#url: "http://jongwoo328.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Lee Jongwoo # add your name
 author-img: profile_image.jpeg # add your photo
 about-author: 웹 개발 공부중입니다. Python, Django, Vuejs로 입문했습니다. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: jongwoo328 # add your Github handle
-social-linkedin: # add your Linkedin handle
+#social-linkedin: # add your Linkedin handle
 social-email: jongwoo328@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: github-pages-7 # add your discus identifier
 
 # Tracker
 analytics: UA-176079895-1 # Google Analytics
