@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Lee Jongwoo # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: profile_image.jpeg # add your photo
 about-author: 웹 개발 공부중입니다. Python, Django, Vuejs로 입문했습니다. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
